@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Luxury Downtown Apartment",
+    "segment_name": "Luxury",
+    "image": "https://i.ibb.co/pZ2dsxB/1.jpg",
+    "description": "Experience unparalleled luxury living in this stunning downtown apartment. Situated in the heart of the city, this spacious apartment offers breathtaking views of the city skyline. With top-notch amenities including a swimming pool, gym, 24/7 security, and ample parking, this is the epitome of urban elegance.",
+    "price": 1000000,
+    "status": "For Sale",
+    "area": 1800,
+    "location": "Downtown",
+    "facilities": ["Swimming pool", "Gym", "24/7 Security", "Parking"]
+  },
+  {
+    "id": 2,
+    "estate_title": "Luxury Beachfront Villa",
+    "segment_name": "Luxury Villas",
+    "description": "Experience ultimate luxury in this stunning beachfront villa. With private access to the beach, infinity pool, and panoramic ocean views, it's the perfect retreat for a tropical getaway.",
+    "price": "1,500 per night",
+    "status": "For Rent",
+    "area": "5,000 sq. ft.",
+    "location": "Tropical Paradise, Maldives",
+    "image": "https://i.ibb.co/V9HjBzb/2.png",
+    "facilities": [
+      "Beachfront Access",
+      "Infinity Pool",
+      "Private Chef",
+      "Spa Services"
+    ]
+  },
+  {
+    "id": 3,
+    "estate_title": "Modern Townhouse with Garden View",
+    "segment_name": "Luxury Townhouses",
+    "description": "This contemporary townhouse offers spacious living areas with large windows overlooking a beautiful garden. Featuring modern amenities and high-end finishes, it's perfect for those seeking luxury living.",
+    "price": "800,000",
+    "status": "For Sale",
+    "area": "3,000 sq. ft.",
+    "location": "Prime Location, City Center",
+    "image": "https://i.ibb.co/ySMSn2M/3.jpg",
+    "facilities": ["Garden", "Swimming Pool", "Gym", "Security System"]
+  },
+  {
+    "id": 4,
+    "estate_title": "Cozy Student House near Campus",
+    "segment_name": "Student Houses",
+    "description": "This cozy student house offers a comfortable living environment just a short walk from campus. With spacious bedrooms, communal living areas, and a backyard for socializing, it's perfect for students seeking a sense of community.",
+    "price": "800 per month",
+    "status": "For Sale",
+    "area": "1,500 sq. ft.",
+    "location": "College Town, Austin",
+    "image": "https://i.ibb.co/hd9jDgG/4.jpg",
+    "facilities": [
+      "Spacious Bedrooms",
+      "Communal Living Areas",
+      "Backyard",
+      "Laundry Facilities"
+    ]
+  },
+  {
+    "id": 5,
+    "estate_title": "Spacious Ranch Style Home with Pool",
+    "segment_name": "Ranch Homes",
+    "description": "Enjoy single-level living in this spacious ranch-style home. With an open floor plan, updated kitchen, and backyard oasis featuring a swimming pool, it's the perfect retreat for relaxed family living.",
+    "price": "700,000",
+    "status": "For Sale",
+    "area": "3,000 sq. ft.",
+    "location": "Suburban Community, Dallas",
+    "image": "https://i.ibb.co/WGtt1nn/5.jpg",
+    "facilities": [
+      "Swimming Pool",
+      "Open Floor Plan",
+      "Updated Kitchen",
+      "Master Suite"
+    ]
+  },
+  {
+    "id": 6,
+    "estate_title": "Urban Loft in the Heart of the City",
+    "segment_name": "City Apartments",
+    "description": "Experience city living at its finest in this stylish urban loft. Located in the vibrant downtown area, it offers easy access to shops, restaurants, and cultural attractions.",
+    "price": "300 per night",
+    "status": "For Rent",
+    "area": "1,000 sq. ft.",
+    "location": "Downtown District, New York City",
+    "image": "https://i.ibb.co/hs0BvWr/6.jpg",
+    "facilities": [
+      "City Views",
+      "Modern Design",
+      "Concierge Service",
+      "Fitness Center"
+    ]
+  }
+]
